@@ -13,3 +13,8 @@ It has various routes using express that the client can call to create, read, up
 mysql -u root -p
 source db/schema.sql
 ```
+
+### Seed the db
+```npm run seed```
+
+Then try out the various routes located in the routes/api folder.
