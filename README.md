@@ -18,3 +18,7 @@ source db/schema.sql
 ```npm run seed```
 
 Then try out the various routes located in the routes/api folder.
+
+## Liscence
+
+MIT Liscence
