@@ -7,3 +7,9 @@ It has various routes using express that the client can call to create, read, up
 ## Usage
 ### Start the app
 ```npm start```
+
+### Source the db
+```
+mysql -u root -p
+source db/schema.sql
+```
